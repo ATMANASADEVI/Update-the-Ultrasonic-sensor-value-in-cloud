@@ -1,7 +1,7 @@
 ## NAME:MANASA DEVI AT
 ## REG NO:212224110036
 
-## EXP NO:2 Update-the-Ultrasonic-sensor-value-in-Things Mate
+## EXP NO:7 Update the Ultrasonic sensor value in Things Mate
 
 # AIM:
 To upload the Ultrasonic sensor value in the Things mate using Arduino controller.
